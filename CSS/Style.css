@@ -55,26 +55,20 @@ h1, h3 {
 
 #box_two {
   background-color: #FFFAD5;
-  justify-content: flex-center;
-  padding-top: 60px;
+  padding-top: 20px;
   padding-bottom: 60px;
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 10px;
+  padding-right: 40px;
 }
 
 .img {
-  min-width: 80%;
+  min-width: 60%;
   max-width: 90%;
-  min-height: 90%;
-  max-height: 99%;
   border-radius: 10px;
 }
 .chart {
-  min-width: 80%;
-  max-width: 90%;
-  min-height: 80%;
-  max-height: 90%;
-  padding-bottom: 340px;
+  justify-content: center;
 }
 
